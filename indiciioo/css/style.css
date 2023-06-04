@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 20px;
+}
+
+.logo {
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+blockquote {
+    text-align: center;
+    font-style: italic;
+    margin-top: 40px;
+}
+
+div{
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+}
